@@ -34,14 +34,6 @@ I completed an internship at Crixsoft and am an active member of the CGBZ Societ
 
 ---
 
-## Certifications
-
-- AWS Cloud Technical Essentials — Amazon Web Services (2026)
-- Build Production AI Agents with RAG & MCP — LearnKartS (2026)
-- Agentic AI Foundations with MERN, RAG & MCP — LearnKartS (2026)
-
-
-
 ## Connect
 
 - LinkedIn: [linkedin.com/in/waleed-kn](https://linkedin.com/in/muhammadwaleed111)
