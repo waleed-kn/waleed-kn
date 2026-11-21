@@ -3,7 +3,7 @@
 **Full Stack Developer & AI Engineer (Next.js, TypeScript, PostgreSQL)**  
 Building production full-stack web platforms, cited-answer RAG systems, AI agents, and cloud-ready software in Peshawar, Pakistan.
 
-🌐 **Portfolio:** [muhammad-waleed-kn.vercel.app](https://muhammadwaleed.codes)
+🌐 **Portfolio:** [muhammadwaleed.codes](https://muhammadwaleed.codes)
 
 ---
 
@@ -38,7 +38,7 @@ Building production full-stack web platforms, cited-answer RAG systems, AI agent
 - **Frontend:** Next.js, React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, REST APIs, Next.js Route Handlers & Server Actions, WebSockets, Zod
 - **Databases:** PostgreSQL (`pgvector`), Prisma ORM, Neon Serverless Postgres, MongoDB, Redis (geospatial)
-- **AI & Automation:** RAG Systems, AI Agents, Model Context Protocol (MCP), n8n Workflow Automation, OpenAI API, Gemini API, Groq API
+- **AI & Automation:** RAG Systems, AI Agents, Model Context Protocol, n8n Workflow Automation, OpenAI API, Gemini API, Groq API
 - **Cloud, Testing & DevOps:** AWS (EC2, S3, IAM, VPC, Lambda), Docker, GitHub Actions CI, Vitest, Vercel, Git
 
 ---
