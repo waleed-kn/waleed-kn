@@ -45,7 +45,7 @@ Building production full-stack web platforms, cited-answer RAG systems, AI agent
 
 ### Connect
 
-- **Portfolio:** [muhammad-waleed-kn.vercel.app](https://muhammad-waleed-kn.vercel.app)
+- **Portfolio:** [muhammadwaleed.codes](https://muhammadwaleed.codes)
 - **LinkedIn:** [linkedin.com/in/muhammadwaleed111](https://www.linkedin.com/in/muhammadwaleed111/)
 - **GitHub:** [github.com/waleed-kn](https://github.com/waleed-kn)
 - **Fiverr:** [fiverr.com/waleedknn](https://www.fiverr.com/waleedknn)
