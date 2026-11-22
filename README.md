@@ -1,34 +1,35 @@
-# Hi 👋 I'm Muhammad Waleed (Waleed KN)
+# Muhammad Waleed | Full Stack Developer & AI Engineer
 
-**Full Stack Developer & AI Engineer (Next.js, TypeScript, PostgreSQL)**  
-Building production full-stack web platforms, cited-answer RAG systems, AI agents, and cloud-ready software in Peshawar, Pakistan.
+**Muhammad Waleed (Waleed KN)** is a Full Stack Developer and AI Engineer from Peshawar, Pakistan, working with Next.js, TypeScript and PostgreSQL. I build production full-stack web platforms, cited-answer RAG systems, AI agents, and cloud-ready software.
 
-🌐 **Portfolio:** [muhammadwaleed.codes](https://muhammadwaleed.codes)
+🌐 **Portfolio:** [Muhammad Waleed's portfolio, muhammadwaleed.codes](https://muhammadwaleed.codes)
 
 ---
 
 ### About Me
 
 - 🎓 Pursuing a **B.S. in Software Engineering** at **City University of Science and Information Technology (CUSIT)**, Peshawar, Pakistan (2024–2028).
-- 💼 **Software Development Intern** at **Crixsoft** (Aug–Oct 2026) & **Web Developer** at **CGBZ Society, CUSIT**.
+- 💼 **Software Development Intern** at **Crixsoft** (Aug–Oct 2026) and **Web Developer** at **CGBZ Society, CUSIT**.
 - 🚀 Built and shipped **8+ deployed applications**, including a cited-answer **RAG Document Q&A** app on a $0 infrastructure stack and a real-time **RideShare** platform.
-- 📜 Completed **4 Certifications** in **AI Automation with n8n (7 courses)**, **AWS Fundamentals (3 courses)**, **Build Production AI Agents with RAG and MCP**, and **Agentic AI Foundations**.
-- 🎯 Open to **Junior Software / Full Stack & AI Engineer** roles and remote opportunities.
+- 📜 Completed **4 certifications**: AI Automation with n8n (7 courses), AWS Fundamentals (3 courses), Build Production AI Agents with RAG and MCP, and Agentic AI Foundations.
+- 🎯 Open to **Junior Software, Full Stack and AI Engineer** roles, remote opportunities, and freelance projects.
 
 ---
 
 ### Featured Production Systems
 
-1. **[RAG Document Q&A — AI Assistant with Cited Answers](https://rag-doc-qa-beta.vercel.app)** ([Source](https://github.com/waleed-kn/rag-doc-qa))  
-   Page-level cited answers and out-of-scope refusal via semantic search (`pgvector`, Gemini embeddings, Groq) on a $0 stack with resumable batch embedding, Postgres rate limiting, 30+ Vitest unit tests, evaluation harness, Docker, and GitHub Actions CI.
-2. **[RideShare — Real-Time Ride-Hailing Platform](https://ride-share-indol-two.vercel.app)**  
+1. **[RAG Document Q&A: AI Assistant with Cited Answers](https://rag-doc-qa-beta.vercel.app)** ([source code](https://github.com/waleed-kn/rag-doc-qa))
+   Page-level cited answers and out-of-scope refusal via semantic search (`pgvector`, Gemini embeddings, Groq) on a $0 stack, with resumable batch embedding, Postgres rate limiting, 30+ Vitest unit tests, an evaluation harness, Docker, and GitHub Actions CI.
+2. **[RideShare: Real-Time Ride-Hailing Platform](https://ride-share-indol-two.vercel.app)**
    Real-time rider-driver matching with a Redis geospatial index, WebSocket live updates, a server-validated 5-state ride lifecycle, Mapbox routing, and Stripe test-mode payments.
-3. **Recall — AI Study Assistant**  
-   Transforms study notes into structured flashcards using the OpenAI API, PostgreSQL, Prisma ORM, and Zod schema validation.
-4. **[E-Commerce Platform](https://ecommerce-frontend-jrqn.onrender.com)**  
+3. **Recall: AI Study Assistant**
+   Turns study notes into structured flashcards using the OpenAI API, PostgreSQL, Prisma ORM, and Zod schema validation.
+4. **[E-Commerce Platform](https://ecommerce-frontend-jrqn.onrender.com)**
    Full-stack e-commerce system with Auth.js, JWT sessions, bcrypt hashing, Prisma ORM, PostgreSQL, and a protected role-based admin dashboard.
-5. **[AI Cover Letter Generator & AI Resume Reviewer](https://github.com/waleed-kn/cover-letter-generator)**  
+5. **[AI Cover Letter Generator & AI Resume Reviewer](https://github.com/waleed-kn/cover-letter-generator)**
    Next.js and TypeScript AI tools powered by the Groq API that generate role-aligned cover letters and structured resume evaluations.
+
+More projects are on my [portfolio](https://muhammadwaleed.codes).
 
 ---
 
@@ -43,10 +44,14 @@ Building production full-stack web platforms, cited-answer RAG systems, AI agent
 
 ---
 
-### Connect
+### Connect with Muhammad Waleed
 
 - **Portfolio:** [muhammadwaleed.codes](https://muhammadwaleed.codes)
 - **LinkedIn:** [linkedin.com/in/muhammadwaleed111](https://www.linkedin.com/in/muhammadwaleed111/)
 - **GitHub:** [github.com/waleed-kn](https://github.com/waleed-kn)
 - **Fiverr:** [fiverr.com/waleedknn](https://www.fiverr.com/waleedknn)
 - **Email:** [muhammadwaleed.se@gmail.com](mailto:muhammadwaleed.se@gmail.com)
+
+---
+
+Muhammad Waleed, Full Stack Developer & AI Engineer, Peshawar, Pakistan. Visit [muhammadwaleed.codes](https://muhammadwaleed.codes).
